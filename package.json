@@ -1,6 +1,6 @@
 {
-  "name": "quicknext",
-  "version": "1.0.2",
+  "name": "@kmavillanosa/quicknext",
+  "version": "1.0.1",
   "description": "A boilerplate for React using NextJs",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kmavillanosa/quicknext.git"
   },
   "bin": {
-    "create-boilerplate": "./generate-app.js"
+    "create": "./generate-app.js"
   },
   "keywords": [
     "NextJs",
