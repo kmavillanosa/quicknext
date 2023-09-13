@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kmavillanosa/quicknext.git"
   },
   "bin": {
-    "create": "./generate-app.js"
+    "create": "node ./generate-app.js"
   },
   "keywords": [
     "NextJs",
