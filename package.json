@@ -1,0 +1,27 @@
+{
+  "name": "quicknext",
+  "version": "1.0.2",
+  "description": "A boilerplate for React using NextJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmavillanosa/quicknext.git"
+  },
+  "bin": {
+    "create-boilerplate": "./generate-app.js"
+  },
+  "keywords": [
+    "NextJs",
+    "React",
+    "Boilerplate"
+  ],
+  "author": "Kim Cyriel Avillanosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmavillanosa/quicknext/issues"
+  },
+  "homepage": "https://github.com/kmavillanosa/quicknext#readme"
+}
