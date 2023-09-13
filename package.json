@@ -1,8 +1,8 @@
 {
   "name": "@kmavillanosa/quicknext",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A boilerplate for React using NextJs",
-  "main": "index.js",
+  "main": "./generate-app.js",
   "scripts": {
     "test": "npm run test"
   },
